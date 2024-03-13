@@ -37,7 +37,7 @@ It also compiles to WASM and runs in the browser.
 
 ## How is Csound used?
 
-The old-school way is to write a text file that Csound understands, save it, and run the **`csound`** command with it in a CLI terminal.
+The old-school way is to write a text file that Csound understands, save it, and run the **`csound`** command in a terminal.
 
 ![](./images/csound-cli.gif)
 
@@ -49,7 +49,7 @@ There are also "frontends" that are GUIs for editing and running Csound files:
 [CsoundQt](https://csoundqt.github.io/),
 and [Blue](https://blue.kunstmusik.com/)
 
-![](./images/frontends.png)<!-- .element: style="width: 700px;" -->
+![](./images/frontends.png)<!-- .element: style="width: 1200px;" -->
 
 ---
 
@@ -91,6 +91,6 @@ See you there!
 <br>
 <br>
 <br>
-Made with reveal.js:
+Slides made with reveal.js:
 
-https://github.com/docEdub/240312-kyoss-csound-and-cabbage-overview.
+https://github.com/docEdub/240312-kyoss-csound-overview.
