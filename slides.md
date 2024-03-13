@@ -84,4 +84,13 @@ See you there!
 
 ---
 
-# Questions?
+## Questions?
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+Made with reveal.js:
+
+https://github.com/docEdub/240312-kyoss-csound-and-cabbage-overview.
